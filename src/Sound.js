@@ -28,15 +28,25 @@ import g_11 from "./assets/g11.mp3";
 import g_12 from "./assets/g12.mp3";
 
 const e1 = new Audio(e_1);
+e1.crossOrigin = "anonymous";
 const e2 = new Audio(e_2);
+e2.crossOrigin = "anonymous";
 const e3 = new Audio(e_3);
+e3.crossOrigin = "anonymous";
 const e4 = new Audio(e_4);
+e4.crossOrigin = "anonymous";
 const e5 = new Audio(e_5);
+e5.crossOrigin = "anonymous";
 const e6 = new Audio(a_1);
+e6.crossOrigin = "anonymous";
 const e7 = new Audio(a_2);
+e7.crossOrigin = "anonymous";
 const e8 = new Audio(a_3);
+e8.crossOrigin = "anonymous";
 const e9 = new Audio(a_4);
+e9.crossOrigin = "anonymous";
 const e10 = new Audio(a_5);
+e10.crossOrigin = "anonymous";
 
 const a1 = new Audio(a_1);
 const a2 = new Audio(a_2);
